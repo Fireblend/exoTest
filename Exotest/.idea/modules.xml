@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exotest.iml" filepath="$PROJECT_DIR$/Exotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiotrackApp/audiotrackApp.iml" filepath="$PROJECT_DIR$/audiotrackApp/audiotrackApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exoApp/exoApp.iml" filepath="$PROJECT_DIR$/exoApp/exoApp.iml" />
+    </modules>
+  </component>
+</project>
